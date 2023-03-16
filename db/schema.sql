@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS myBlogs;
+
+
+CREATE DATABASE myBlogs;
