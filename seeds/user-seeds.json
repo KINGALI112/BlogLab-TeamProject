@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Syed_Ali",
+        "email": "syed@gmail.com",
+        "password": "12345",
+        "isAdmin": "true"
+    },
+    {
+        "username": "Syed_Ali2",
+        "email": "Syed_Ali2@gmail.com",
+        "password": "12345",
+        "isAdmin": "false"
+    },
+    {
+        "username": "Mahogany Hampton",
+        "email": "Mahogany@gmail.com",
+        "password": "12345",
+        "isAdmin": "false"
+    }
+]

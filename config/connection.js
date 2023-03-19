@@ -1,12 +1,10 @@
 const Sequelize = require("sequelize");
-
 require("dotenv").config();
 
 let sequelize;
-
-// syntax to connect mysql with node.js 
-
-if(process.env.JAWSDB_URL){
+//sequelize object with .env config parameter used throughout app
+//if statement contains logic to run on heroku or local
+if (process.env.JAWSDB_URL) {
     sequelize = new Sequelize(process.env.JAWSDB_URL);
 } else {
     sequelize = new Sequelize(
@@ -16,11 +14,9 @@ if(process.env.JAWSDB_URL){
         {
             host: "localhost",
             dialect: "mysql",
-            port: 3306
+            port: 3306,
         }
-        
-        );
+    );
 }
 
 module.exports = sequelize;
-

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "How Do I Keep My Laptop’s Battery In Good Health?",
+        "content": "You’ve probably heard some people say you should drain your battery completely before charging it, or that you should keep it between 40% and 80% all the time to make it last longer. Most of these rules are outdated, applying to older nickel-based batteries. Luckily, most or all of your gadgets these days run on Lithium Ion batteries, which are easy to take care of. We recommend reading our full guide on how they work, but the gist is: they last longer when you perform shallow discharges, keep them cool, and don’t leave them plugged in while they’re running at 100%. Honestly, though, batteries have a finite life no matter what, and your efforts will only go so far—so don’t stress about it. Focus your efforts on getting better battery life out of your iPhone, Android phone, or laptop on a given charge instead—and knowing how to replace the battery when it starts dying.",
+        "author_id": "1"
+    },
+    {
+        "title": "What do Viruses, Trojans, and Other Malware Actually Do?",
+        "content": "Everyone knows viruses and trojans are bad, but a lot of people don’t know how exactly they work. Viruses, for example, are programs that copy themselves and infect a computer, spreading from one to another—just like, well, a real life virus. Trojans, on the other hand, are applications that look normal, but secretly have code that’s doing something else—like letting someone else control your computer. We highly recommend reading this explanation for more detail on the different types of malware, as well as the biggest myths surrounding them. And, as always, make sure you’re running a good antivirus program—even if you have good browsing habits.",
+        "author_id": "1"
+    },
+    {
+        "title": "What’s Wrong with Using Public Wi-Fi?",
+        "content": "Most of us put a lot of effort into finding free Wi-Fi, but public Wi-Fi networks have their own share of problems—particularly that it’s very insecure. Even if a Wi-Fi network has a password, other people on the network could see what you’re doing, or—if they were so inclinded—steal personal information and passwords. Luckily, there’s a lot you can do to stay safe: make sure sharing is turned off, use HTTPS whenever possible, and run your traffic through a VPN. Follow this guide for the details, and you should be a-okay.",
+        "author_id": "1"
+    },
+    {
+        "title": "Do I Really Need to “Eject” USB Drives?",
+        "content": "Ever wonder why your computer warns you about ejecting those USB drives before you remove them? It’s because computers use something called write caching to improve performance: if you copy something to your drive, it’ll tell you it’s completed the task, but it’s actually waiting until it has a few other tasks to perform so it can do them all at once. Efficient, right? When you press eject, your PC finishes anything in the queue to make sure you don’t incur any data loss. Windows does a better job of avoiding problems than OS X and Linux, but we recommend ejecting all your drives anyway. It’s small price to pay for keeping your data safe. While we’re on the subject: if you’ve ever wondered why your external drives never have as much space as the box claims they do, we’ve got answers for that as well.",
+        "author_id": "1"
+    },
+    {
+        "title": "How Can I Tell if an Email Is Spam?",
+        "content": "Some spam is obvious (“I lost 30 pounds and made $24356 in five hours by taking this special pill!”), but other messages are more subtle. A lot of spam relies oh “phishing,” in which a spammer will try to make their email look like it’s coming from a legitimate source in order to get your information. They may tell you to click a link that looks like it’s going to paypal.com, but if you hover over it, you’ll see that it’s really going somewhere else—likely a PayPal-disguised site where you willingly type in your information. Luckily, you can usually avoid those tricks by checking the URL and typing it in yourself instead. Be careful, too—sometimes those links will cause you to unknowingly spam one of your friends, which only spreads the scam.",
+        "author_id": "1"
+    }
+]
