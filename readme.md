@@ -53,4 +53,5 @@ Different categories feature will be added.
 # Links
 Deployed: https://newtestweb.herokuapp.com/
 GitHub repo: https://github.com/KINGALI112/BlogLab-TeamProject
-
+# Video Link
+(Webpage walkthrough) https://drive.google.com/file/d/14fWkfHrWzt0Jy_hOrUHbSRipERdXwvPq/view?usp=share_link 
